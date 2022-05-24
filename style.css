@@ -1,0 +1,36 @@
+.container-fluid {
+    background-color: #50ba6c;
+}
+
+.nav-bar {
+    background-color: #50ba6c;
+    width: 100%;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.nav-bar a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    width: 100%;
+    text-decoration: none;
+}
+
+td, th {
+    border: 1px solid black;
+    width: 100%;
+    text-decoration: none;
+}
+
+.wiki-main {
+    padding: 10px;
+}
+
+.table-menu {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
